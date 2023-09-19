@@ -12,6 +12,13 @@ yarn dev
 pnpm dev
 ```
 
+[Next.js Full Course for Beginners | Nextjs 13 Tutorial | 7 Hours](https://www.youtube.com/watch?v=843nec-IvW0&t=1s)
+
+- [x] 34:28-47:05 add google front
+- [x] 47:19-1:22:26 fetch() API
+- [x] 1:22:26-1:37:00 Caching
+- [x] 1:37:00-7:03:57 dynamicParams
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
